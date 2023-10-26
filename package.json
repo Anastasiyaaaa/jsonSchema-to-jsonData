@@ -1,0 +1,8 @@
+{
+  "name": "jest-test-package",
+  "version": "1.0.0",
+  "author": "Anastasiia Onyshchenko",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
